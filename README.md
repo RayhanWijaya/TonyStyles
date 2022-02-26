@@ -39,4 +39,13 @@ Add the `t-Input` class to a text input to use the default input style.
 
 <br><br>
 
-_Right now, there are no colors for Input Field._
+Add another class starting with `t-Input-` _and a color next to it_, to customize the color.
+
+`<input class="t-Input t-Input-Red" type="input" >Type Something!</button>`
+
+<br><br>
+
+Available colors for Input Field:
+
+* Red     - `<input class="t-Input t-Input-Red" type="input" >Red!</button>`
+* Yellow  - `<input class="t-Input t-Input-Yellow" type="input" >Yellow!</button>`
