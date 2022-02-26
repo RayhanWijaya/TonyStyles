@@ -33,7 +33,7 @@ Available colors for Button:
 
 Add the `t-Input` class to a text input to use the default input style.
 
-`<input class="t-Input" >Click Me!</input>`
+`<input class="t-Input" type="input" >Type Something!</input>`
 
 <br><br>
 
