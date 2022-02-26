@@ -1,0 +1,69 @@
+/* TonyStyle Styles */
+
+.t-Button {
+	margin: 4px;
+  margin-left: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
+  height: 40px;
+  border-radius: 3px;
+  transition: background-color 0.17s, color 0.3s, box-shadow 0.27s, transform 0.07s ease;
+}
+.t-Button:hover {
+  transform: scale(1.05);
+  border-color: rgb(56, 56, 56);
+  background-color: rgb(117, 113, 117);
+  box-shadow: 0px 5px 7px rgba(117, 116, 117, 0.445);
+  color: white;
+}
+.t-Button-Purple {
+	border-color: rgb(140, 43, 231);
+	background-color: rgb(189, 78, 233);
+	color: white;
+}
+.t-Button-Purple:hover {
+	border-color: rgb(36, 2, 160);
+	background-color: rgb(159, 6, 219);
+	box-shadow: 0px 5px 7px rgba(159, 2, 173, 0.445);
+}
+.t-Button-Red {
+	border-color: rgb(202, 42, 42);
+	background-color: rgb(252, 104, 104);
+	color: white;	
+}
+.t-Button-Red:hover {
+	border-color: rgb(163, 35, 35);
+	background-color: rgb(247, 66, 66);
+	box-shadow: 0px 5px 7px rgba(243, 6, 6, 0.445);
+}
+.t-Button-Blue {
+	border-color: rgb(56, 119, 255);
+	background-color: rgb(38, 150, 255);
+	color: white;	
+}
+.t-Button-Blue:hover {
+	border-color: rgb(14, 64, 170);
+	background-color: rgb(66, 123, 247);
+	box-shadow: 0px 5px 7px rgba(6, 117, 243, 0.445);
+}
+
+.t-Input {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	padding-left: 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 5px;
+	font-size: 15px;
+	border: 2px solid transparent;
+	border-color: black;
+	border-radius: 3px;
+	caret-color: rgb(46, 195, 253);
+	background-color: rgb(240, 240, 240);
+	transition: 0.17s box-shadow ease-in, 0.16s background-color ease-in;
+}
+.t-Input:focus {
+	outline: none;
+	box-shadow: 0px 3px 1px rgba(85, 85, 85, 0.445);
+	background-color: rgb(255, 255, 255);
+}
