@@ -22,8 +22,10 @@ Add another class starting with `t-Button-` _and a color next to it_, to customi
 Available colors for Button:
 
 * Purple  - `<button class="t-Button t-Button-Purple" >Purple!</button>`
-* Red     - `<button class="t-Button t-Button-Purple" >Red!</button>`
-* Blue    - `<button class="t-Button t-Button-Purple" >Blue!</button>`
+* Red     - `<button class="t-Button t-Button-Red" >Red!</button>`
+* Blue    - `<button class="t-Button t-Button-Blue" >Blue!</button>`
+* Yellow  - `<button class="t-Button t-Button-Yellow" >Yellow!</button>`
+* Green   - `<button class="t-Button t-Button-Green" >Green!</button>`
 
 <br>
 
