@@ -1,7 +1,7 @@
-/* TonyStyle Styles */
+/* Styles */
 
 .t-Button {
-	margin: 4px;
+  margin: 4px;
   margin-left: 0px;
   padding-left: 10px;
   padding-right: 10px;
@@ -46,6 +46,28 @@
 	border-color: rgb(14, 64, 170);
 	background-color: rgb(66, 123, 247);
 	box-shadow: 0px 5px 7px rgba(6, 117, 243, 0.445);
+}
+.t-Button-Yellow {
+	border-color: #f8c230;
+	background-color: #fff370;
+	color: black;	
+}
+.t-Button-Yellow:hover {
+	border-color: #a85100;
+	background-color: #ffe642;
+	box-shadow: 0px 5px 7px rgba(255, 153, 51, 0.445);
+	color: black;
+}
+.t-Button-Green {
+	border-color: #008015;
+	background-color: #5dee7a;
+	color: black;	
+}
+.t-Button-Green:hover {
+	border-color: #077000;
+	background-color: #05b310;
+	box-shadow: 0px 5px 7px rgba(29, 203, 39, 0.445);
+	color: white;
 }
 
 .t-Input {
