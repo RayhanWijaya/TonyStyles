@@ -1,7 +1,7 @@
 /* Styles */
 
 .t-Button {
-  margin: 4px;
+	margin: 4px;
   margin-left: 0px;
   padding-left: 10px;
   padding-right: 10px;
@@ -86,6 +86,22 @@
 }
 .t-Input:focus {
 	outline: none;
-	box-shadow: 0px 3px 1px rgba(85, 85, 85, 0.445);
+	box-shadow: 0px 3px 1px rgba(159, 159, 159);
 	background-color: rgb(255, 255, 255);
+}
+.t-Input-Red {
+	background: #ead1d1;
+	caret-color: #ff8a8a;
+}
+.t-Input-Red:focus {
+	box-shadow: 0px 3px 1px rgba(194, 87, 87);
+	background-color: #ffdbdb;
+}
+.t-Input-Yellow {
+	background: #f5f2d6;
+	caret-color: #f9be58;
+}
+.t-Input-Yellow:focus {
+	box-shadow: 0px 3px 1px rgba(234, 213, 88);
+	background-color: #fff7cc;
 }
