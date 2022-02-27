@@ -91,6 +91,17 @@
 	box-shadow: 0px 5px 7px rgba(202, 144, 78, 0.445);
 	color: white;
 }
+.t-Button-Orange {
+	border-color: #b34509;
+	background-color: #ff813d;
+	color: white;
+}
+.t-Button-Orange:hover {
+	border-color: #763205;
+	background-color: #e15c23;
+	box-shadow: 0px 5px 7px rgba(202, 144, 78, 0.445);
+	color: white;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
