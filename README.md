@@ -28,6 +28,7 @@ Available colors for Button:
 * Green   - `<button class="t-Button t-Button-Green" >Green!</button>`
 * Pink   - `<button class="t-Button t-Button-Pink" >Pink!</button>`
 * Brown   - `<button class="t-Button t-Button-Brown" >Pink!</button>`
+* Orange - `<button class="t-Button t-Button-Orange" >Orange!</button>`
 
 <br>
 
