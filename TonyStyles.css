@@ -80,6 +80,17 @@
 	box-shadow: 0px 5px 7px rgba(255, 107, 235, 0.445);
 	color: white;
 }
+.t-Button-Brown {
+	border-color: #ac5f06;
+	background-color: #c58934;
+	color: white;
+}
+.t-Button-Brown:hover {
+	border-color: #361e02;
+	background-color: #8a6128;
+	box-shadow: 0px 5px 7px rgba(202, 144, 78, 0.445);
+	color: white;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
