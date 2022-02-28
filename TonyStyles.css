@@ -129,6 +129,12 @@
 	background-color: #5f9ea0;
 	color: white;
 }
+.t-Button-CadetBlue:hover {
+	border-color: #365254;
+	background-color: #447274;
+	box-shadow: 0px 5px 7px rgba(64, 114, 116, 0.445);
+	color: white;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
