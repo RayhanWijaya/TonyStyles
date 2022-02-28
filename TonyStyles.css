@@ -124,6 +124,17 @@
 	box-shadow: 0px 5px 7px rgba(190, 190, 190, 0.445);
 	color: black;
 }
+.t-Button-Turqouise {
+	border-color: #008fb3;
+	background-color: #38fffc;
+	color: black;
+}
+.t-Button-Turqouise:hover {
+	border-color: #005266;
+	background-color: #00eeff;
+	box-shadow: 0px 5px 7px rgba(41, 255, 230, 0.445);
+	color: black;
+}
 .t-Button-CadetBlue {
 	border-color: #365254;
 	background-color: #5f9ea0;
