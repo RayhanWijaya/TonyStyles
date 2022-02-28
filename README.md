@@ -19,7 +19,7 @@ Add another class starting with `t-Button-` _and a color next to it_, to customi
 
 <br><br>
 
-Available colors for Button:
+Available colors for Button (13 items):
 
 * Purple  - `<button class="t-Button t-Button-Purple" >Purple!</button>`
 * Red     - `<button class="t-Button t-Button-Red" >Red!</button>`
@@ -53,7 +53,7 @@ Add another class starting with `t-Input-` _and a color next to it_, to customiz
 
 <br><br>
 
-Available colors for Input Field:
+Available colors for Input Field (2 items):
 
 * Red     - `<input class="t-Input t-Input-Red" type="input" >Red!</button>`
 * Yellow  - `<input class="t-Input t-Input-Yellow" type="input" >Yellow!</button>`
