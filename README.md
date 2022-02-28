@@ -31,6 +31,7 @@ Available colors for Button:
 * Orange - `<button class="t-Button t-Button-Orange" >Orange!</button>`
 * Black - `<button class="t-Button t-Button-Black" >Black!</button>`
 * White - `<button class="t-Button t-Button-White" >White!</button>`
+* Turqouise - `<button class="t-Button t-Button-Turqouise" >Turqouise!</button>`
 
 <br>
 
