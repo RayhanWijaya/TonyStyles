@@ -157,6 +157,18 @@
 	box-shadow: 0px 5px 7px rgba(13, 67, 175, 0.445);
 	color: white;
 }
+.t-Button-DarkRed {
+	border-color: #411018;
+	background-color: #b90e0e;
+	color: white;
+}
+.t-Button-DarkRed:hover {
+	border-color: #270c0c;
+	background-color: #9c0d22;
+	box-shadow: 0px 5px 7px rgba(243, 6, 6, 0.445);
+	color: white;
+}
+
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding-left: 5px;
