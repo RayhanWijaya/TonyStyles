@@ -57,3 +57,4 @@ Available colors for Input Field (2 items):
 
 * Red     - `<input class="t-Input t-Input-Red" type="input" >Red!</button>`
 * Yellow  - `<input class="t-Input t-Input-Yellow" type="input" >Yellow!</button>`
+* Green - `<input class="t-Input t-Input-Green" type="input" >Green!</button>`
