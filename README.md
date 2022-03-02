@@ -35,6 +35,7 @@ Available colors for Button (13 items):
 * CadetBlue - `<button class="t-Button t-Button-CadetBlue" >Cadet Blue!</button>`
 * DarkBlue - `<button class="t-Button t-Button-DarkBlue" >Dark Blue!</button>`
 * DarkRed - `<button class="t-Button t-Button-DarkRed" >Dark Red!</button>`
+* Cerise - `<button class="t-Button t-Button-Cerise" >Cerise!</button>`
 
 <br>
 
