@@ -168,6 +168,17 @@
 	box-shadow: 0px 5px 7px rgba(243, 6, 6, 0.445);
 	color: white;
 }
+.t-Button-Cerise {
+	border-color: #571327;
+	background-color: #DE3163;
+	color: white;
+}
+.t-Button-Cerise:hover {
+	border-color: #270c0c;
+	background-color: #b3234c;
+	box-shadow: 0px 5px 7px rgba(243, 6, 6, 0.445);
+	color: white;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
