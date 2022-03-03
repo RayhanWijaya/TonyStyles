@@ -255,10 +255,10 @@
 .t-Input-Black::placeholder {  
   color: #c2c2c2;
 }
-.t-Input-Black:ms-input-placeholder {
+.t-Input-Black:-ms-input-placeholder {
 	color: #c2c2c2;
 }
-.t-Input-Black::ms-input-placeholder {
+.t-Input-Black::-ms-input-placeholder {
 	color: #c2c2c2;
 }
 .t-Input-Black:focus {
