@@ -65,3 +65,4 @@ Available colors for Input Field:
 * Orange - `<input class="t-Input t-Input-Orange" type="input" >Pink!</button>`
 * Black - `<input class="t-Input t-Input-Black" type="input" >Black!</button>`
 * CadetBlue - `<input class="t-Input t-Input-Black" type="input" >Cadet Blue!</button>`
+* CadetBlue - `<input class="t-Input t-Input-Cerise" type="input" >Cerise!</button>`
