@@ -47,6 +47,18 @@ Add the `t-Button2` class to a button to use the default button style.
 
 `<button class="t-Button2" >Click Me!</button>`
 
+<br><br>
+
+Add another class starting with `t-Button2-` _and a color next to it_, to customize the color.
+
+`<button class="t-Button2 t-Button-Red" >Click Me!</button>`
+
+<br><br>
+
+Available colors for Button:
+
+* Cerise - `<button class="t-Button2 t-Button2-Cerise" >Red!</button>`
+
 <br>
 
 ## Input Field
