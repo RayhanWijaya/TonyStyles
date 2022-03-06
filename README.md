@@ -3,7 +3,7 @@ Premade CSS. Just use classes.
 
 # How To Use
 
-## Button
+## Button (Legacy)
 
 <br>
 
@@ -36,6 +36,16 @@ Available colors for Button:
 * DarkBlue - `<button class="t-Button t-Button-DarkBlue" >Dark Blue!</button>`
 * DarkRed - `<button class="t-Button t-Button-DarkRed" >Dark Red!</button>`
 * Cerise - `<button class="t-Button t-Button-Cerise" >Cerise!</button>`
+
+<br>
+
+## Button2
+
+<br>
+
+Add the `t-Button2` class to a button to use the default button style.
+
+`<button class="t-Button2" >Click Me!</button>`
 
 <br>
 
