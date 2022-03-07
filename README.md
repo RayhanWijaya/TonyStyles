@@ -57,7 +57,8 @@ Add another class starting with `t-Button2-` _and a color next to it_, to custom
 
 Available colors for Button:
 
-* Red - `<button class="t-Button2 t-Button2-Cerise" >Red!</button>`
+* Red - `<button class="t-Button2 t-Button2-Red" >Red!</button>`
+* Blue - `<button class="t-Button2 t-Button2-Blue" >Blue!</button>`
 
 <br>
 
