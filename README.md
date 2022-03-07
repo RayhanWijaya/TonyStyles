@@ -59,6 +59,7 @@ Available colors for Button:
 
 * Red - `<button class="t-Button2 t-Button2-Red" >Red!</button>`
 * Blue - `<button class="t-Button2 t-Button2-Blue" >Blue!</button>`
+* Green - `<button class="t-Button2 t-Button2-Green" >Green!</button>`
 
 <br>
 
