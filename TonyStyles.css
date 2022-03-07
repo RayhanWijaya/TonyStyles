@@ -220,6 +220,17 @@
 	box-shadow: 0px 4px #315172;
 	border-color: #315172;
 }
+.t-Button2-Green { 
+	background-color: #3fe961;
+	border-color: rgba(63, 24, 24, 0.301);
+	color: #003d0b;
+}
+.t-Button2-Green:hover {
+	background-color: #07bb4c;
+	color: white;
+	box-shadow: 0px 4px #0d5903;
+	border-color: #0d5903;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
