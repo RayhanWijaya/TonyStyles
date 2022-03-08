@@ -253,6 +253,17 @@
 	box-shadow: 0px 4px #693e02;
 	border-color: #693e02;
 }
+.t-Button2-Black { 
+	background-color: #4d4d4d;
+	border-color: rgba(63, 24, 24, 0.901);
+	color: #fcfcfc;
+}
+.t-Button2-Black:hover {
+	background-color: #6e6e6e;
+	color: white;
+	box-shadow: 0px 4px #333333;
+	border-color: #333333;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
