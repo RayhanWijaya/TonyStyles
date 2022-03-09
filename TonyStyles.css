@@ -264,6 +264,17 @@
 	box-shadow: 0px 4px #333333;
 	border-color: #333333;
 }
+.t-Button2-CadetBlue { 
+	background-color: #5f9ea0;
+	border-color: rgba(63, 24, 24, 0.501);
+	color: #fcfcfc;
+}
+.t-Button2-CadetBlue:hover {
+	background-color: #3e9193;
+	color: white;
+	box-shadow: 0px 4px #153333;
+	border-color: #153333;
+}
 
 .t-Input {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
