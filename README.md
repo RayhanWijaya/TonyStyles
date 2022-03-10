@@ -65,6 +65,7 @@ Available colors for Button:
 * Black - `<button class="t-Button2 t-Button2-Black" >Black!</button>`
 * CadetBlue - `<button class="t-Button2 t-Button2-CadetBlue" >Cadet Blue!</button>`
 * DarkBlue - `<button class="t-Button2 t-Button2-DarkBlue" >Dark Blue!</button>`
+* DarkRed - `<button class="t-Button2 t-Button2-DarkRed" >Dark Red!</button>`
 
 <br>
 
