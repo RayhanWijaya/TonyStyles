@@ -232,12 +232,12 @@
 	border-color: #0d5903;
 }
 .t-Button2-Purple { 
-	background-color: #f25ad6;
-	border-color: rgba(63, 24, 24, 0.301);
+	background-color: #d918dc;
+	border-color: rgba(63, 24, 24, 0.601);
 	color: #fcfcfc;
 }
 .t-Button2-Purple:hover {
-	background-color: #e31ca4;
+	background-color: #c81990;
 	color: white;
 	box-shadow: 0px 4px #5d0451;
 	border-color: #5d0451;
@@ -307,6 +307,17 @@
 	color: white;
 	box-shadow: 0px 4px #371a1a;
 	border-color: #371a1a;
+}
+.t-Button2-Pink { 
+	background-color: #f25ad6;
+	border-color: rgba(63, 24, 24, 0.301);
+	color: #fcfcfc;
+}
+.t-Button2-Pink:hover {
+	background-color: #e31ca4;
+	color: white;
+	box-shadow: 0px 4px #5d0451;
+	border-color: #5d0451;
 }
 
 .t-Input {
