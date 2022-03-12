@@ -36,6 +36,7 @@ Available colors for Button:
 * DarkBlue - `<button class="t-Button t-Button-DarkBlue" >Dark Blue!</button>`
 * DarkRed - `<button class="t-Button t-Button-DarkRed" >Dark Red!</button>`
 * Cerise - `<button class="t-Button t-Button-Cerise" >Cerise!</button>`
+* Pink - `<button class="t-Button t-Button-Pink" >Pink!</button>`
 
 <br>
 
