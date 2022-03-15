@@ -69,6 +69,7 @@ Available colors for Button:
 * DarkRed - `<button class="t-Button2 t-Button2-DarkRed" >Dark Red!</button>`
 * Cerise - `<button class="t-Button2 t-Button2-Cerise" >Cerise!</button>`
 * Brown - `<button class="t-Button2 t-Button2-Brown" >Brown!</button>`
+* Turquoise - `<button class="t-Button2 t-Button2-Turquoise">Turquoise!</button>`
 
 <br>
 
