@@ -71,6 +71,7 @@ Available colors for Button2:
 * Brown - `<button class="t-Button2 t-Button2-Brown" >Brown!</button>`
 * Turquoise - `<button class="t-Button2 t-Button2-Turquoise">Turquoise!</button>`
 * White - `<button class="t-Button2 t-Button2-White">White!</button>`
+* Yellow - `<button class="t-Button2 t-Button2-Yellow">Yellow!</button>`
 
 <br>
 
